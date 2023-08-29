@@ -15,11 +15,11 @@ We were given the task by our stakeholder to construct two Life Expectancy predi
 * Another requirement of our task was to make sure we got a RMSE of 5 or under with our detailed model. What RMSE means is the error from our actual value and the one we predicted. In our task we had to get a RMSE of 5 years or under - so this means predicting a countries life expectancy within 5 years.
 With our model we were able to get a RMSE of under 3 years.
 
-# Data
+## Data
 
 The dataset comprises various population statistics and features related to life expectancy for each country. Please note that due to data privacy concerns, some measurements for life expectancy might be missing. Our data analytics team has taken these missing cases into consideration during the analysis.
 
-# Workbooks
+## Workbooks
 
 The project has been split up into 4 section and thus there are 4 workbooks to reflect that. In order to replicate or to use our workbooks effectively please note the order in which to use them:
 
